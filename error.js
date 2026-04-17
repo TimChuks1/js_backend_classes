@@ -44,6 +44,7 @@ function loadingUserData(userId) {
 // loadingUserData(-1);
 
 // Throw and Error keyword
+// A comment
 function registerStudent(name, age) {
   try {
     if (!name || name.trim() === "") {

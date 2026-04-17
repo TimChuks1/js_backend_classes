@@ -1,7 +1,7 @@
 // DATATTYPES
 
 // PRIMITIVE DATA TYPES
-var person = "John";
+var person = "Obi";
 console.log(person);
 
 let myName = "Esther";
@@ -16,4 +16,3 @@ console.log(pi);
 
 const isStudent = true;
 console.log(isStudent);
-
